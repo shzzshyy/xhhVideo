@@ -1,0 +1,6 @@
+framework module xhhKit {
+  umbrella header "xhhKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

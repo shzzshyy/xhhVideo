@@ -1,0 +1,16 @@
+PODS:
+  - xhhKit (0.1.0)
+
+DEPENDENCIES:
+  - xhhKit (from `../`)
+
+EXTERNAL SOURCES:
+  xhhKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  xhhKit: c39f67b6004a1340c01852aa4b2be7372f0f412e
+
+PODFILE CHECKSUM: 79e328c74ebbc8d2b137c929a8288d6867b2856d
+
+COCOAPODS: 1.9.1
