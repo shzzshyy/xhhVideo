@@ -1,5 +1,5 @@
 PODS:
-  - xhhKit (0.1.0)
+  - xhhKit (0.1.1)
 
 DEPENDENCIES:
   - xhhKit (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  xhhKit: c39f67b6004a1340c01852aa4b2be7372f0f412e
+  xhhKit: b9913265be969e02e5e93ac22e951393c0c757e5
 
 PODFILE CHECKSUM: 79e328c74ebbc8d2b137c929a8288d6867b2856d
 

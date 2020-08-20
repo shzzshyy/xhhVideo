@@ -1,9 +1,9 @@
 {
   "name": "xhhKit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "A short description of xhhKit.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/2388033172@qq.com/xhhKit",
+  "homepage": "https://github.com/zy6915321/xhhVideo.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,8 +12,8 @@
     "2388033172@qq.com": "zyjohnnyb@163.com"
   },
   "source": {
-    "git": "https://github.com/2388033172@qq.com/xhhKit.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/zy6915321/xhhVideo.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
